@@ -3,6 +3,6 @@ module.exports = {
   },
 
   afterInstall: function() {
-    return this.addBowerPackageToProject('ember-pusher-2', '0.2.1');
+    return this.addBowerPackageToProject('ember-pusher-2', '1.0.1');
   }
 };
